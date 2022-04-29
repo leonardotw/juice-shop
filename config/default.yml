@@ -1,9 +1,9 @@
 server:
-  port: 3000
+  port: 80
   basePath: ''
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
+  name: 'OWASP Test Machine'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
